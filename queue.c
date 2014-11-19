@@ -30,7 +30,7 @@ int dequeue(int val, arrayQueue *q); //dequeue a value
 Linked Lists
 **********/
 
-item getHead();
+item getHead(); //get head of linked list
 
 item getTail();
 
